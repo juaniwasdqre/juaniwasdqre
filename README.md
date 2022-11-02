@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @juaniwasdqre
-- 👀 I’m interested in ... tu vieja
-- 🌱 I’m currently learning ... tu hermana
-- 💞️ I’m looking to collaborate on ... tu tia
+- 👋 Hola, soy @juaniwasdqre
+- 👀 I’m interested in ... blabla
+- 🌱 I’m currently learning ... **ducks behaviour**
+- 💞️ I’m looking to collaborate on ... **NASA**
 - 📫 How to reach me ... lo de tu prima
 
 <!---
